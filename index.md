@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+Welcome to PopCrush, mobile application ("PopCrush”, "we” or "us”). PopCrush is committed to protecting the privacy of all users and others who access our application ("you,” or "Users”). This Privacy Policy applies to the PopCrush mobile app for Android. This Privacy Policy applies only to the practices of companies we own, control, or are united with under common control. By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
 
-You can use the [editor on GitHub](https://github.com/enjoyvalley/enjoyvalley.popcrush/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+INFORMATION WE COLLECT
+Generally. We collect personal information from our users in order to provide you with a personalized, useful and efficient experience. The categories of information we collect can include: Information you provide. We may collect and store personal information you enter in our Service or provide to us in some other manner, including your email address, user name. User Content. In order to lock your Messages, Mail, Photos, Contacts, Incoming Calls and any apps, the App accesses your installed apps, phone and network state. In order to support the break-in alerts feature to take a phone when some one unlock your privacy apps failed, the App accesses the Camera and record the break-in photos in your storage device. PopCrush collects metadata associated with User Content. Metadata typically consists of how, when the App is enabled and started to lock the privacy apps. We use this information to operate, maintain, and provide to you the features and functionality of the App, as well as to communicate directly with you, such as to send you email messages and push notifications. We may also send you Service-related emails or messages (e.g., account verification, order confirmations, change or updates to features of the App, technical and security notices). When you access our App by or through a mobile device, we may receive or collect and store a unique identification numbers associated with your device, mobile carrier, device type and manufacturer, phone number, and, depending on your mobile device settings.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+SHARING OF PERSONAL INFORMATION
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. We may disclose your Non-personal information: To trusted third parties who assist us in operating our website, conducting our business, cooperation with us or servicing you, so long as those parties agree to keep this information confidential. We will access, use or disclose your information with other organizations or entities for reasons that required by any applicable law, regulation, legal process or enforceable governmental request; Detect, prevent, or otherwise fraud, security or technical issues; Protect against harm to the rights, property or safety of PopCrush, our users or the public as required or permitted by law.
 
-### Markdown
+SECURITY AND SENSITIVE INFORMATION
+PopCrush is very concerned about safeguarding the confidentiality of your information. We do not collect Personal Information, and we employ administrative, physical and electronic measures designed to protect your Non-Personal Information from unauthorized access and use. Please be aware that no security measures that we take to protect your information is absolutely guaranteed to avoid unauthorized access or use of your Non-Personal Information which is impenetrable. We ask that you not send us, and you not disclose, any sensitive Personal Information (e.g., information related to racial or ethnic origin, political opinions, religion or other beliefs, health, sexual orientation, criminal background or membership in past organizations, including trade union memberships) on or through an Application, the Services or the Site or otherwise to us. International Users Your Information collected by us may be stored and processed in any country where we have facilities, and by using an Application, the Services or the Site you consent to the transfer of your Information to countries, including the United States, which may be outside of your country of residence and may provide for different and less stringent data protection rules than in your country. If you object to your Information being transferred or used as described in this Policy, please do not use any Application, the Services or the Site and immediately delete all Applications from your User Devices.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/enjoyvalley/enjoyvalley.popcrush/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+LINKS TO THIRD PARTY APPS OR WEBSITES The Apps may contain links to and from third party Apps of our business partners, advertisers, and social media sites. If you follow a link to any of these apps or websites, please note that these apps or websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those apps or websites.
+UPDATES TO THIS POLICY We reserve the right to modify this Policy from time to time. If we make any changes to this Policy, we will change the "Last Revision" date below and will post the updated Policy on this page.
+CONTACTING US If you have questions about this Policy, please contact us at enjoyvalley2014@gmail.com .
+LAST REVISION DATE This Policy was last revised on, and effective as of, 3/10/2018
+ADVERTISEMENT POLICY We make sure our advertise in application.(contain the third party ads), To comply with industry self-regulatory guidance provided by the Digital Advertiser Alliance (DAA).including facebook Audience Network native ads .( https://m.facebook.com/ads/ad_choices)
